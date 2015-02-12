@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <dbms>
+        <host>192.168.101.204</host>
+        <port>3306</port>		
+        <user>bioappadmin</user>
+        <password>6wvGsjFSBSbAKdLW</password>
+        <database>bioapp2</database>
+    </dbms>
+    <sms>
+        <port>COM3</port>
+        <smcNumber>+254722500029</smcNumber>
+        <mobNumber>0714360799</mobNumber>
+        <password></password>
+    </sms>
+	 <serverFolders>       
+        <logsFolder>/SMSApplication/errorLogs</logsFolder>
+        <settingsFolder>/SMSApplication/settings</settingsFolder>
+</serverFolders>
+    
+</settings>
